@@ -1,0 +1,15 @@
+{
+    "life 3.0": {
+        "sun": {
+            "first_name": "sun",
+            "last_name": "sej",
+            "address": "morar",
+            "city": "gwa",
+            "state": "mp",
+            "country": "india",
+            "pin": 456321,
+            "phone": 4563210789,
+            "email": "sun@gmail.com"
+        }
+    }
+}
